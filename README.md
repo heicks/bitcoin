@@ -1,3 +1,5 @@
+#【注：用于参考比特币实现原理及其p2p网络及其唯一性】
+
 Bitcoin Core integration/staging tree
 =====================================
 
